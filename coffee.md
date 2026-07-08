@@ -40,39 +40,6 @@ This document tracks all whole bean coffee purchases extracted from order confir
 | **2026-07-08** | Unknown | Nestor Lasso – El Diviso – Aji Bourbon Washed | 1 | $35.00 | $91.00 | SQ2181171 |
 | **2026-07-08** | Unknown | Costa Rica Tarrazú – San Diego Honey | 1 | $19.00 | $91.00 | SQ2251022 |
 
-## Recommended Roasters to Explore Next
-
-Based on your purchase profile, which heavily favors clean, single-origin, whole-bean coffee from specialty roasters:
-
-### 1\. [Chromatic Coffee](https://www.chromaticcoffee.com)
-
-- **Profile:** Bay Area roaster known for highly expressive single-origins and clean, fruit-forward profiles.  
-- **Key Beans:** Gamut, Nyamasheke Wet/Dry, HOLY MOUNTAIN.
-
-### 2\. [Catahoula Coffee Company](https://Catahoulacoffee.com)
-
-- **Profile:** Exceptional single-origin selections and custom blends roasted in Richmond, CA.  
-- **Key Beans:** Nicaragua Jinotega Paraiso, Guatemala Huehuetenango, and the Butkus Blend.
-
-### 3\. [Sey Coffee](https://www.seycoffee.com)
-
-- **Profile:** Brooklyn-based roaster known for light-roasted, clean, and highly expressive single-origin coffees.  
-- **Key Beans:** Hamasho (Ethiopia), Elora (Ethiopia), Buku Sayisa (Ethiopia), and Digna Nuñez (Panama).
-
-### 4\. [Monogram Coffee](https://monogramcoffee.com)
-
-- **Profile:** Fosters wonder and warmth with highly progressive single-origin offerings.  
-- **Key Beans:** David Mamani Espresso (Bolivia), Daterra Pearl Espresso (Brazil), Yerin Sagastume (Honduras).
-
-### 5\. [Highwire Coffee Roasters](https://www.highwirecoffee.com)
-
-- **Profile:** Oakland-based roaster focusing on balanced, clean, organic single-origin coffees.  
-- **Key Beans:** Mexico Cifuentes Family, Tightrope, and The Core.
-
-### 6\. [Whiptail Coffee](https://whiptailcoffee.com)
-
-- **Profile:** Focuses on micro-lot coffees with delicate sweetness and clean cup profiles.  
-- **Key Beans:** Guatemala Tinamit Coop Honey, Kenya Gondo AA, Guatemala Satchibal.
 
 ## Forward-Thinking Roasters to Explore Next
 
