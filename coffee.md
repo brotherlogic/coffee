@@ -35,10 +35,10 @@ This document tracks all whole bean coffee purchases extracted from order confir
 | **2026-05-05** | Chromatic Coffee | Nyamasheke Wet | 10oz | $29.99 | $122.96 | Free Shipping (order total) |
 | **2026-05-05** | Chromatic Coffee | Nyamasheke Dry | 10oz | $30.99 | $122.96 | Free Shipping (order total) |
 | **2026-05-05** | Chromatic Coffee | HOLY MOUNTAIN | 10oz | $37.99 | $122.96 | Free Shipping (order total) |
-| **2026-07-08** | Unknown | Kundalini – Espresso Blend | 1 | $17.00 | $91.00 | SQ9951427 |
-| **2026-07-08** | Unknown | Ethiopia Guji – Danbi Udo Natural | 1 | $20.00 | $91.00 | SQ1681022 |
-| **2026-07-08** | Unknown | Nestor Lasso – El Diviso – Aji Bourbon Washed | 1 | $35.00 | $91.00 | SQ2181171 |
-| **2026-07-08** | Unknown | Costa Rica Tarrazú – San Diego Honey | 1 | $19.00 | $91.00 | SQ2251022 |
+| **2026-07-08** | Kafiex | Kundalini – Espresso Blend | 1 | $17.00 | $91.00 | SQ9951427 |
+| **2026-07-08** | Kafiex | Ethiopia Guji – Danbi Udo Natural | 1 | $20.00 | $91.00 | SQ1681022 |
+| **2026-07-08** | Kafiex | Nestor Lasso – El Diviso – Aji Bourbon Washed | 1 | $35.00 | $91.00 | SQ2181171 |
+| **2026-07-08** | Kafiex | Costa Rica Tarrazú – San Diego Honey | 1 | $19.00 | $91.00 | SQ2251022 |
 
 
 ## Forward-Thinking Roasters to Explore Next
