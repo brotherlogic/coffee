@@ -1,12 +1,12 @@
 # Coffee Purchase Tracker (Whole Beans)
 
-This document tracks all whole bean coffee purchases extracted from order confirmations and receipts in Gmail between May 2025 and May 2026\.
+This document tracks all whole bean coffee purchases extracted from order confirmations and receipts in Gmail between May 2025 and September 2026\.
 
 ## Summary Metrics
 
-- **Total Spent on Beans:** $715.45 (calculated as sum of unique transaction totals: $90.00 \+ $135.74 \+ $109.00 \+ $71.25 \+ $95.50 \+ $122.96 \+ $91.00)  
-- **Total Bags Purchased:** 27  
-- **Average Price per Bag:** $26.50
+- **Total Spent on Beans:** $798.55 (calculated as sum of unique transaction totals: $90.00 \+ $135.74 \+ $109.00 \+ $71.25 \+ $95.50 \+ $122.96 \+ $91.00 \+ $83.10)  
+- **Total Bags Purchased:** 31  
+- **Average Price per Bag:** $25.76
 
 ## Purchase Log
 
@@ -39,22 +39,26 @@ This document tracks all whole bean coffee purchases extracted from order confir
 | **2026-07-08** | Kafiex | Ethiopia Guji – Danbi Udo Natural | 1 | $20.00 | $91.00 | SQ1681022 |
 | **2026-07-08** | Kafiex | Nestor Lasso – El Diviso – Aji Bourbon Washed | 1 | $35.00 | $91.00 | SQ2181171 |
 | **2026-07-08** | Kafiex | Costa Rica Tarrazú – San Diego Honey | 1 | $19.00 | $91.00 | SQ2251022 |
+| **2026-09-08** | Passenger Coffee | Stowaway | 10oz | $19.80 | $83.10 | Free Shipping (order total) |
+| **2026-09-08** | Passenger Coffee | Divino Niño \- Colombia | 10oz | $22.25 | $83.10 | Free Shipping (order total) |
+| **2026-09-08** | Passenger Coffee | Agaro \- Ethiopia | 10oz | $19.80 | $83.10 | Free Shipping (order total) |
+| **2026-09-08** | Passenger Coffee | Heza \- Burundi | 10oz | $21.25 | $83.10 | Free Shipping (order total) |
 
 
 ## Forward-Thinking Roasters to Explore Next
 
-### 1\. [Passenger Coffee](https://drinkpassenger.com/collections/coffee) (Lancaster, PA)
-
-- **The Innovation:** Freezes 100% of their green (unroasted) coffee inventory in frozen storage to preserve freshness indefinitely, releasing exceptional "archival lots" harvested years ago.  
-- **Flavor Profile:** Meticulously clean, light, and structured single-origin roasts sourced through long-term partnerships.
-
-### 2\. [La Cabra](https://us.lacabra.com/) (Denmark & New York)
+### 1\. [La Cabra](https://us.lacabra.com/) (Denmark & New York)
 
 - **The Innovation:** A global pioneer of Nordic-style roasting, practicing a strict "single roast" philosophy to honor the unique terroir of the coffee cherry regardless of the brewing method.  
 - **Flavor Profile:** Bright, clean, and transparent cup profiles focusing heavily on single origins.
 
-### 3\. [Onyx Coffee Lab](https://onyxcoffeelab.com/) (Bentonville, AR)
+### 2\. [Onyx Coffee Lab](https://onyxcoffeelab.com/) (Bentonville, AR)
 
 - **The Innovation:** Industry leader in pricing transparency, publishing complete point-of-sale pricing breakdowns detailing green costs, cup scores, market comparisons, and transportation costs.  
 - **Flavor Profile:** Lighter roasts featuring both traditional washed lots and highly progressive, experimental anaerobic fermentations.
+
+### 3\. [Tim Wendelboe](https://timwendelboe.no/) (Oslo, Norway)
+
+- **The Innovation:** World Barista Champion and Nordic roasting benchmark who sources directly from a handful of dedicated producers with rigorous agricultural quality standards.  
+- **Flavor Profile:** Renowned worldwide for extraordinary cup cleanliness, floral delicacy, and light roast development that maximizes sweetness and terroir expression.
 
